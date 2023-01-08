@@ -15,7 +15,9 @@ Welcome to the Women Who Code Days of Code Challenge! Below is a list of helpful
 - [Replit](https://replit.com)
 - [CodePen](https://codepen.io)
 - [Kaggle](https://www.kaggle.com)
-- YouTube
+- [YouTube](https://www.youtube.com)
+- [Hashnode](https://hashnode.com/about)
+- [Hackernoon](https://app.hackernoon.com/login)
 
 ## Technical Study Resources
 ### Front End / Full Stack Web Development

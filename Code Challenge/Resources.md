@@ -31,6 +31,8 @@ Welcome to the Women Who Code Days of Code Challenge! Below is a list of helpful
 - [JavaScript](https://scrimba.com/learn/learnjavascript) - Scrimba course
 - [Build a Space Travel Website](https://scrimba.com/learn/spacetravel) - Scrimba course
 - [Learn HTML & CSS](https://scrimba.com/learn/htmlandcss) - Scrimba course
+- [HTML & CSS Crash Course]
+(https://scrimba.com/learn/introhtmlcss) -Scrimba course
 ### Python
 - [Learn Python: 14 Amazing Webinar Series](https://medium.com/wwcode-python/learn-python-14-amazing-webinar-series-a6ca9dcec348) - Medium article featuring 14 WWCode technical study groups
 - [Beginner Python Study Group 2021](https://www.youtube.com/playlist?list=PLVcEZG2JPVhemmja_8HjBdQGxxzyLcQLd)

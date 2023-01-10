@@ -15,6 +15,7 @@ Welcome to the Women Who Code Days of Code Challenge! Below is a list of helpful
 - [Replit](https://replit.com)
 - [CodePen](https://codepen.io)
 - [Kaggle](https://www.kaggle.com)
+- [Hashnode](https://hashnode.com)
 - YouTube
 
 ## Technical Study Resources
@@ -61,5 +62,7 @@ Welcome to the Women Who Code Days of Code Challenge! Below is a list of helpful
 - [Getting Started with Google BigQuery](https://youtu.be/1x2WggJhjGw)
 ### Blockchain
 - [Blockchain Developer Series](https://youtube.com/playlist?list=PLVcEZG2JPVhfnYR0ttga4czed-JQrVgsd)
+- [Beginner Blockchain Series](https://www.youtube.com/playlist?list=PLVcEZG2JPVhfnBvIEul3QoUbqHD2BwGU8)
 - [Scary Easy: Build Your Own Crypto Wallet](https://youtu.be/_K0BVsi9OjA)
 - [Basics of Blockchain with Python](https://www.youtube.com/watch?v=qvJF2xUTz9Q)
+- [How to Create Your Own Token on Binance](https://metaschool.so/courses/how-to-create-your-own-token-on-binance)
